@@ -16,7 +16,7 @@ Category.init(
       primaryKey: true
     },
     //category column
-    categoryname: {
+    category_name: {
       type: DataTypes.STRING,
       allowNull: false
   }

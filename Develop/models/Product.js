@@ -17,7 +17,7 @@ Product.init(
       primaryKey: true
     },
     // define productname
-    productname: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: false
   },
